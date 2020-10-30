@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at Binary_to_Ascii.v(67): always construct contains both blocking and non-blocking assignments File: C:/Quartus/Binary_to_Ascii/Binary_to_Ascii.v Line: 67
+Warning (10268): Verilog HDL information at Binary_to_Ascii.v(111): always construct contains both blocking and non-blocking assignments File: C:/Quartus/Binary_to_Ascii/Binary_to_Ascii.v Line: 111

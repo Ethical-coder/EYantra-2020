@@ -1,0 +1,113 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -2.250
+TNS   : -119.298
+
+Type  : Slow 1200mV 85C Model Setup 'conversion_complete_dec'
+Slack : -0.840
+TNS   : -6.681
+
+Type  : Slow 1200mV 85C Model Setup 'conversion_complete_int'
+Slack : -0.642
+TNS   : -9.134
+
+Type  : Slow 1200mV 85C Model Hold 'conversion_complete_int'
+Slack : 0.336
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'conversion_complete_dec'
+Slack : 0.675
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -105.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'conversion_complete_int'
+Slack : 0.428
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'conversion_complete_dec'
+Slack : 0.434
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -1.964
+TNS   : -99.906
+
+Type  : Slow 1200mV 0C Model Setup 'conversion_complete_dec'
+Slack : -0.747
+TNS   : -5.941
+
+Type  : Slow 1200mV 0C Model Setup 'conversion_complete_int'
+Slack : -0.556
+TNS   : -7.847
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'conversion_complete_int'
+Slack : 0.394
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'conversion_complete_dec'
+Slack : 0.712
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -105.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'conversion_complete_int'
+Slack : 0.446
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'conversion_complete_dec'
+Slack : 0.458
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.831
+TNS   : -33.940
+
+Type  : Fast 1200mV 0C Model Setup 'conversion_complete_dec'
+Slack : -0.187
+TNS   : -1.481
+
+Type  : Fast 1200mV 0C Model Setup 'conversion_complete_int'
+Slack : -0.054
+TNS   : -0.281
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'conversion_complete_int'
+Slack : 0.288
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'conversion_complete_dec'
+Slack : 0.503
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -111.590
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'conversion_complete_int'
+Slack : 0.396
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'conversion_complete_dec'
+Slack : 0.416
+TNS   : 0.000
+
+------------------------------------------------------------
