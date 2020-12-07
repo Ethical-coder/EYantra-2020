@@ -1,0 +1,43 @@
+module ADC_Verilog(Dout,sclk,rst,ADC_DATA_CH1,ADC_DATA_CH2,ADC_DATA_CH3,Din);
+input Dout,sclk,rst;
+output ADC_DATA_CH1[11:0],ADC_DATA_CH2[11:0],ADC_DATA_CH3[11:0],Din,cs;
+
+reg[11:0] data=0;
+reg[2:0] address=0;
+reg pulse_number=0;
+
+//write code for negative edges of the sclk
+always @negedge(sclk)
+begin
+	if(pulse_number==0)begin
+		cs<=0;
+	end
+	if(pulse_number>=2 and pulse_number<=4)begin
+		din<=address[4-pulse_number];
+	end
+
+
+	pulse_number=pulse_number+1;
+end
+
+//code for all the positive edges of the slck
+always @posedge(sclk)
+begin
+
+	if(pulse_number>=4 and pulse_number<=15)begin
+		dout<=data[15-pulse_number];
+	end
+
+	if(pulse_number==15)begin
+		pulse_number=0;
+		cs=1;
+	end
+	
+	
+end
+
+
+
+
+
+endmodule

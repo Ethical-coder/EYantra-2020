@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at I2C_Core_Verilog.v(9): object "reg_addr" differs only in case from object "REG_ADDR" in the same scope File: C:/Quartus/SM#1705_Task2/I2C/I2C_Core_Verilog.v Line: 9

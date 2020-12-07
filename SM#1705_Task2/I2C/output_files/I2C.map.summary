@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Nov 23 16:43:19 2020
+Quartus Prime Version : 19.1.0 Build 670 09/22/2019 SJ Lite Edition
+Revision Name : I2C
+Top-level Entity Name : I2C_Control_Verilog
+Family : Cyclone IV E
+Total logic elements : 20
+    Total combinational functions : 16
+    Dedicated logic registers : 13
+Total registers : 13
+Total pins : 28
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

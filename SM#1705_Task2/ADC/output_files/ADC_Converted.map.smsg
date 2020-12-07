@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at ADC_verilog.v(17): always construct contains both blocking and non-blocking assignments File: C:/Quartus/ADC/ADC_verilog.v Line: 17

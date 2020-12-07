@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Quartus/ADC/simulation/qsim
+vADC_verilog
+Z0 !s110 1606131690
+!i10b 1
+!s100 e^EUo8lYd1^k?dInXSa?00
+IBFX?@>8Ng[bXG4J^Da6RT0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Quartus/SM#1705_Task2/ADC/simulation/qsim
+Z3 w1606131688
+Z4 8ADC_Converted.vo
+Z5 FADC_Converted.vo
+L0 32
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1606131690.000000
+Z8 !s107 ADC_Converted.vo|
+Z9 !s90 -work|work|ADC_Converted.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@d@c_verilog
+vADC_verilog_vlg_vec_tst
+R0
+!i10b 1
+!s100 ^ihUVP[Y[I?:NEmzc5BJ_0
+IoJe_<MCUJ<WVd7jZMYkoF0
+R1
+R2
+w1606131687
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@a@d@c_verilog_vlg_vec_tst
+vhard_block
+R0
+!i10b 1
+!s100 H=G@W4a:L14V>>=PkcI1M1
+I>Q[zhlQCk4;g;k164j2o72
+R1
+R2
+R3
+R4
+R5
+L0 4141
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

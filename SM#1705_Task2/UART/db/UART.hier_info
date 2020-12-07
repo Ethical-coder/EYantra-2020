@@ -1,0 +1,28 @@
+|UART
+CLOCK => CLK.CLK
+CLOCK => time_counter[0].CLK
+CLOCK => time_counter[1].CLK
+CLOCK => time_counter[2].CLK
+CLOCK => time_counter[3].CLK
+CLOCK => time_counter[4].CLK
+CLOCK => time_counter[5].CLK
+CLOCK => time_counter[6].CLK
+CLOCK => time_counter[7].CLK
+CLOCK => time_counter[8].CLK
+TX_DATA_VALID => state.OUTPUTSELECT
+TX_DATA_VALID => state.OUTPUTSELECT
+TX_DATA_VALID => state.OUTPUTSELECT
+TX_DATA_VALID => state.OUTPUTSELECT
+TX_DATA_VALID => state.OUTPUTSELECT
+TX_BYTE[0] => data[0].DATAIN
+TX_BYTE[1] => data[1].DATAIN
+TX_BYTE[2] => data[2].DATAIN
+TX_BYTE[3] => data[3].DATAIN
+TX_BYTE[4] => data[4].DATAIN
+TX_BYTE[5] => data[5].DATAIN
+TX_BYTE[6] => data[6].DATAIN
+TX_BYTE[7] => data[7].DATAIN
+O_TX_SERIAL <= value.DB_MAX_OUTPUT_PORT_TYPE
+O_TX_DONE <= done.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Nov 23 17:04:16 2020
+Quartus Prime Version : 19.1.0 Build 670 09/22/2019 SJ Lite Edition
+Revision Name : ADC_Converted
+Top-level Entity Name : ADC_verilog
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 101 / 22,320 ( < 1 % )
+    Total combinational functions : 65 / 22,320 ( < 1 % )
+    Dedicated logic registers : 81 / 22,320 ( < 1 % )
+Total registers : 81
+Total pins : 41 / 154 ( 27 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

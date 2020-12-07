@@ -1,0 +1,163 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Quartus/I2C/simulation/qsim
+vhard_block
+Z1 !s110 1606132522
+!i10b 1
+!s100 HRYHK8UZ0KeEm1>5K9Zn<2
+IhEiJoULC:ER0Y306kaHT`0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Quartus/SM#1705_Task2/I2C/simulation/qsim
+Z4 w1606132520
+Z5 8I2C.vo
+Z6 FI2C.vo
+L0 1151
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1606132522.000000
+Z9 !s107 I2C.vo|
+Z10 !s90 -work|work|I2C.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vI2C
+Z13 !s110 1605530603
+!i10b 1
+!s100 dA[BGbCL<2<E@Mnf8cMm21
+I;nO@RGVlDUKUI@8RGW84V3
+R2
+R0
+w1605530600
+R5
+R6
+Z14 L0 32
+R7
+r1
+!s85 0
+31
+!s108 1605530602.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@i2@c
+vI2C_Control_Verilog
+R1
+!i10b 1
+!s100 eagM;VlS0eGzAYmYioBmZ2
+I^7Zhn1oSJZDf9JMl9z1Mj3
+R2
+R3
+R4
+R5
+R6
+R14
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@i2@c_@control_@verilog
+vI2C_Control_Verilog_vlg_vec_tst
+R1
+!i10b 1
+!s100 N[YT:bjNZSPK5O>0KnT;=3
+IXB;:1T9i;gI4kRCk4=5_B3
+R2
+R3
+w1606132519
+Z15 8Waveform.vwf.vt
+Z16 FWaveform.vwf.vt
+Z17 L0 30
+R7
+r1
+!s85 0
+31
+R8
+!s107 Waveform.vwf.vt|
+Z18 !s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R11
+R12
+n@i2@c_@control_@verilog_vlg_vec_tst
+vI2C_Core_Verilog
+!s110 1605793663
+!i10b 1
+!s100 6hH=nC6FJeBA?M:e51F522
+IY?eCSzW8n@^FVC7h9D1aO1
+R2
+R0
+w1605793661
+R5
+R6
+R14
+R7
+r1
+!s85 0
+31
+Z19 !s108 1605793663.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@i2@c_@core_@verilog
+vI2C_Core_Verilog_vlg_vec_tst
+!s110 1605793664
+!i10b 1
+!s100 MD:OGIIC0d]n6jlH_V^cc2
+Iik9]G2D?6dY;?G]4XNbzO0
+R2
+R0
+w1605793659
+R15
+R16
+R17
+R7
+r1
+!s85 0
+31
+R19
+!s107 Waveform.vwf.vt|
+R18
+!i113 1
+R11
+R12
+n@i2@c_@core_@verilog_vlg_vec_tst
+vI2C_vlg_vec_tst
+R13
+!i10b 1
+!s100 QO<`EWmi?PSVJ=A4<i;cS2
+IM4AUYS;9X`lEOk@^?6iPc0
+R2
+R0
+w1605530599
+R15
+R16
+R17
+R7
+r1
+!s85 0
+31
+!s108 1605530603.000000
+!s107 Waveform.vwf.vt|
+R18
+!i113 1
+R11
+R12
+n@i2@c_vlg_vec_tst

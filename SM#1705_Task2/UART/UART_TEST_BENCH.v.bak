@@ -1,0 +1,14 @@
+module UART_TEST_BENCH ;
+reg clk,valid;
+reg [7:0]data;
+wire out_Serial,out_done;
+
+clk=0;
+always begin
+#1; clk=!clk;
+end
+
+
+
+
+endmodule

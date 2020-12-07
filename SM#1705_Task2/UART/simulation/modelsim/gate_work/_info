@@ -1,0 +1,78 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Quartus/UART/simulation/modelsim
+vhard_block
+Z1 !s110 1605805929
+!i10b 1
+!s100 >g@gUj[2[@fbC3RzBWNRH1
+IkBe:W722ZE:;5jQLIOQPQ1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1605805915
+Z4 8UART.vo
+Z5 FUART.vo
+L0 1474
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1605805929.000000
+Z8 !s107 UART.vo|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|UART.vo|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+.
+Z12 tCvgOpt 0
+vUART
+R1
+!i10b 1
+!s100 5>8K`k2Oc>P8<fUcOOZ@I3
+INf31WhaJoBBEDLOTAN0Ne2
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@u@a@r@t
+vUART_TEST_BENCH
+R1
+!i10b 1
+!s100 mBF^Ck@ho:0S5jVZ5YR<V2
+I<jBUWlcYYR[DLamiQHflj2
+R2
+R0
+w1605805792
+8C:/Quartus/UART/UART_TEST_BENCH.v
+FC:/Quartus/UART/UART_TEST_BENCH.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Quartus/UART/UART_TEST_BENCH.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Quartus/UART|C:/Quartus/UART/UART_TEST_BENCH.v|
+!i113 1
+R10
+!s92 -vlog01compat -work work +incdir+C:/Quartus/UART
+R12
+n@u@a@r@t_@t@e@s@t_@b@e@n@c@h
